@@ -12073,6 +12073,11 @@
 		"guidelines": "https://www.jetbrains.com/company/brand/"
 	},
 	{
+		"title": "PHPStan",
+		"hex": "9B6356",
+		"source": "https://github.com/phpstan/phpstan"
+	},
+	{
 		"title": "Pi Network",
 		"hex": "F4AF47",
 		"source": "https://blockexplorer.minepi.com"
